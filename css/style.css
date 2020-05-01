@@ -956,7 +956,7 @@ ol {
 	width: 77px;
 	height: 77px;
 	margin: 0 auto 20px;
-	background-image: url("../img/award-icon.png");
+	/* background-image: url("../img/award-icon.png"); */
 	background-repeat: no-repeat;
 	padding-top: 20px;
 	font-size: 16px;
@@ -985,7 +985,7 @@ ol {
 }
 
 .award-box:hover .award-year {
-	background-image: url("../img/award-icon-white.png");
+	/* background-image: url("../img/award-icon-white.png"); */
 }
 
 .award-box:hover .award-year,
